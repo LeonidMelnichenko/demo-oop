@@ -1,5 +1,5 @@
 package by.academy.melnichenko.javabasics.oop;
-public class Wings {
+public class Wing {
     int wingspan;
     int wingSurfaceArea;
     String typeWings;
